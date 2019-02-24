@@ -36,3 +36,10 @@ https://sd08419ttic.hatenablog.com/entry/2019/02/16/031604
 ReadImageModule.py
 
 https://sd08419ttic.hatenablog.com/entry/2019/02/16/031604
+
+### 集計データのマージ機能
+
+MergeDataModule.py
+
+https://sd08419ttic.hatenablog.com/entry/2019/02/24/221808
+
