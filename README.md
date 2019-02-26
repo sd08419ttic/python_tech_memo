@@ -20,6 +20,8 @@ https://sd08419ttic.hatenablog.com/
 * pandas
 * cv2
 * pdf2image
+* google_images_download
+* pytube
 
 (pdf2imageは http://blog.alivate.com.au/poppler-windows/ に従い必要なファイルを手動でダウンロードする必要がある)
 
@@ -42,4 +44,10 @@ https://sd08419ttic.hatenablog.com/entry/2019/02/16/031604
 MergeDataModule.py
 
 https://sd08419ttic.hatenablog.com/entry/2019/02/24/221808
+
+### Google系Webサービスのデータ取得
+
+GetGoogleWebService.py
+
+https://sd08419ttic.hatenablog.com/entry/2019/02/27/005447
 
