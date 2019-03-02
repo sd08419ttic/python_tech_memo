@@ -39,6 +39,11 @@ ReadImageModule.py
 
 https://sd08419ttic.hatenablog.com/entry/2019/02/16/031604
 
+### 画像ファイルに対する前処理 (リサイズ/色補正など)###
+
+https://sd08419ttic.hatenablog.com/entry/2019/03/02/210830
+
+
 ### 集計データのマージ機能
 
 MergeDataModule.py
