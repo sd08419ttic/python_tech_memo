@@ -197,7 +197,7 @@ class Class_Img_PreProcessing():
 
     def get_sharp_filter_img(self):
         '''
-        鮮鋭化フィルタ画像：ボケた画像のエッジ・テクスチャ協調に有効
+        鮮鋭化フィルタ画像：ボケた画像のエッジ・テクスチャ強調に有効
         '''
         if self.img is None:
             return None
