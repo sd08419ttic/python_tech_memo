@@ -29,7 +29,7 @@ class Class_Img_PreProcessing():
         if self.img is None:
             return None
         else:
-            result = cv2.resize(self.img , (int(self.img.shape[0]*ratio), int(self.img.shape[1]* ratio)))
+            result = cv2.resize(self.img , (int(self.img.shape[1]*ratio), int(self.img.shape[0]* ratio)))
         return result
 
     def resize_img_pix_size(self,height = 200, width = 150):
