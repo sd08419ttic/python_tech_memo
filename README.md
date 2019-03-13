@@ -58,3 +58,9 @@ GetGoogleWebService.py
 
 https://sd08419ttic.hatenablog.com/entry/2019/02/27/005447
 
+### GUI機能の実装(tkinter)
+
+TkinterModule.py
+
+https://sd08419ttic.hatenablog.com/entry/2019/03/14/011913
+
