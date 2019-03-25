@@ -62,5 +62,11 @@ https://sd08419ttic.hatenablog.com/entry/2019/02/27/005447
 
 TkinterModule.py
 
+https://sd08419ttic.hatenablog.com/entry/2019/03/16/145938
+
+### pythonスクリプトのexeファイル化 (pyinstaller)
+
+pyinstallerModule.py
+
 https://sd08419ttic.hatenablog.com/entry/2019/03/14/011913
 
