@@ -70,3 +70,8 @@ pyinstallerModule.py
 
 https://sd08419ttic.hatenablog.com/entry/2019/03/14/011913
 
+### 画像認識①テンプレートマッチング/色に基づく物体認識/エッジ形状に基づく形状認識
+
+SimpleObjectDetectionModule.py
+
+https://sd08419ttic.hatenablog.com/entry/2019/03/31/221358
