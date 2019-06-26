@@ -75,3 +75,8 @@ https://sd08419ttic.hatenablog.com/entry/2019/03/14/011913
 SimpleObjectDetectionModule.py
 
 https://sd08419ttic.hatenablog.com/entry/2019/03/31/221358
+
+
+### キーボード・ジョイスティック操作内容の取得 (pygame) ###
+
+https://sd08419ttic.hatenablog.com/entry/2019/06/26/224930
