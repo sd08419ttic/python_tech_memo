@@ -22,6 +22,7 @@ https://sd08419ttic.hatenablog.com/
 * pdf2image
 * google_images_download
 * pytube
+* animatplot
 
 (pdf2imageは http://blog.alivate.com.au/poppler-windows/ に従い必要なファイルを手動でダウンロードする必要がある)
 
@@ -82,3 +83,9 @@ https://sd08419ttic.hatenablog.com/entry/2019/03/31/221358
 get_joykey.py
 
 https://sd08419ttic.hatenablog.com/entry/2019/06/26/224930
+
+### matplotlibのアニメーション描画 ###
+
+AnimationPlot.py
+
+https://sd08419ttic.hatenablog.com/entry/2020/03/03/000404
