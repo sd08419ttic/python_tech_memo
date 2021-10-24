@@ -71,7 +71,7 @@ pyinstallerModule.py
 
 https://sd08419ttic.hatenablog.com/entry/2019/03/14/011913
 
-### 画像認識①テンプレートマッチング/色に基づく物体認識/エッジ形状に基づく形状認識
+ ### 画像認識①テンプレートマッチング/色に基づく物体認識/エッジ形状に基づく形状認識
 
 SimpleObjectDetectionModule.py
 
@@ -91,4 +91,8 @@ AnimationPlot.py
 https://sd08419ttic.hatenablog.com/entry/2020/03/03/000404
 
 
-### 3D
+### matplotlibによる3Dグラフ描画
+
+3dplot.py
+
+https://sd08419ttic.hatenablog.com/entry/2021/10/17/171900
